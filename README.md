@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwaniMaddheshiya
-- 👀 I’m interested in coding, and learning new things...
-- 🌱 I’m currently learning React,Java,Python...
+- 👀 I’m interested in coding, and love exploring new things.
+- 🌱 I’m currently learning MERN Stack.
 
 <!---
 ashwaniMaddheshiya/ashwaniMaddheshiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
