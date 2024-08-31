@@ -1,6 +1,6 @@
 # <div align="center"> Ashwani Maddheshiya 👋  </div>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Always+Explore+New+Tech;Learning+Mobile+App+Development">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Tech+Enthusisast;Frontend+Developer">
 </div>
 
 
