@@ -5,11 +5,11 @@
 
 
 ## <div> 👦 About Me </div>
-- 🏫 Computer Science Student
+- 🏫 Software Developer
 - 🧑‍💻 Passionate about using Software as a solution for every Problem
 - 💻 Crafts Robust web application using **_MERN Stack_**.
-- 🧑‍🎓 Currently learning: Mobile App Development using **_React Native_**.
-- 🤔 **_Open for: Internship or new Job opportunities_**.
+- 🧑‍🎓 Currently learning: Mastering **_Nextjs_**.
+- 🤔 **_Open for: Nextjs, React , MERN developer Job opportunities_**.
 - 🤓 Always learning new things.
 <br/>
 
