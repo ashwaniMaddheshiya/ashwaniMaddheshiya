@@ -8,7 +8,7 @@
 - 🏫 Software Developer
 - 🧑‍💻 Passionate about using Software as a solution for every Problem
 - 💻 Crafts Robust web application using **_MERN Stack_**.
-- 🧑‍🎓 Currently learning: Mastering **_Nextjs_**.
+- 🧑‍🎓 Currently learning: Mastering **_Nestjs_**.
 - 🤔 **_Open for: Nextjs, React , MERN developer Job opportunities_**.
 - 🤓 Always learning new things.
 <br/>
