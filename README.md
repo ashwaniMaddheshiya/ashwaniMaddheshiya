@@ -53,6 +53,7 @@
     <img src="https://img.shields.io/badge/Express-orange" alt="Express">
     <img src="https://img.shields.io/badge/Mongoose-blue" alt="Mongoose">
     <img src="https://img.shields.io/badge/JWT-yellow" alt="JWT">
+    <img src="https://img.shields.io/badge/Nestjs-blue" alt="JWT">
   </p>
 </div>
 
